@@ -68,7 +68,7 @@ Sophisticated ML-powered web app for real-time stock analysis
 
 #### 📺 [YouTube Trending Analysis ML Platform](https://github.com/sharath2004-tech/youtuble-trend-analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B? style=flat&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 Advanced ML analytics platform for YouTube trending videos
