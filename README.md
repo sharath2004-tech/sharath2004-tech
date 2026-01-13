@@ -6,8 +6,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=sharath2004-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue? style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sharath-goud-037667268)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:2004sharath@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/sharath-goud-037667268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:2004sharath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/sharath2004-tech">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
@@ -219,7 +228,7 @@ Interactive quiz application with Firebase authentication
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharath2004-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel. app/graph?username=sharath2004-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
 
 </div>
 
@@ -243,13 +252,13 @@ const sharath = {
             styling: ["TailwindCSS", "CSS3", "Responsive Design"],
             tools: ["Vite", "Webpack"]
         },
-        backEnd:  {
+        backEnd: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
             databases: ["MongoDB", "Firebase"]
         },
         aiMl: {
-            libraries: ["scikit-learn", "Pandas", "NumPy"],
+            libraries:  ["scikit-learn", "Pandas", "NumPy"],
             visualization: ["Plotly", "Matplotlib", "Seaborn"],
             frameworks: ["Streamlit"]
         },
@@ -277,9 +286,15 @@ const sharath = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-goud-037667268)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2004sharath@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharath2004-tech)
+<a href="https://linkedin.com/in/sharath-goud-037667268" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:2004sharath@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/sharath2004-tech">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -289,7 +304,7 @@ const sharath = {
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=tokyonight)
 
 ### 😄 Random Dev Meme
 
@@ -297,7 +312,7 @@ const sharath = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting! &fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting! &fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 **⭐️ From [sharath2004-tech](https://github.com/sharath2004-tech) with 💙**
 
