@@ -179,7 +179,7 @@ Interactive quiz application with Firebase authentication
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000? style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -228,7 +228,7 @@ Interactive quiz application with Firebase authentication
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel. app/graph?username=sharath2004-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharath2004-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
 
 </div>
 
@@ -304,7 +304,7 @@ const sharath = {
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😄 Random Dev Meme
 
