@@ -36,7 +36,7 @@ interests:  ["AI/ML", "Web Development", "Cloud Computing", "Open Source"]
 currently_learning: ["Advanced ML Models", "Cloud Architecture", "System Design"]
 ```
 
-- 🔭 Building innovative projects from **AI stock predictors** to **enterprise HRMS platforms**
+- 🔭 Building innovative projects from **AI-powered education platforms** to **climate & healthcare AI solutions**
 - 🌱 Continuously exploring **cutting-edge technologies** and best practices
 - 💬 Ask me about **React, TypeScript, Python, Machine Learning, Firebase**
 - 📫 Reach me at **2004sharath@gmail.com**
@@ -46,125 +46,77 @@ currently_learning: ["Advanced ML Models", "Cloud Architecture", "System Design"
 
 ## 🎯 Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🎓 Education & AI
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-#### 📊 [Advanced Stock Predictor AI](https://github.com/sharath2004-tech/predictor)
+#### 🌉 [Edu-Bridge AI Platform — Bharath Hackathon](https://github.com/sharath2004-tech/edu-bridge-ai-platform-bharath-hackathon)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+AI-powered education platform built for the **Bharath Hackathon** — bridging the gap between students and quality learning resources using intelligent recommendations and adaptive content delivery.
+- 🤖 AI-driven personalized learning paths & content recommendations
+- 📊 Real-time student performance tracking and analytics
+- 🌐 Multilingual support to bridge language barriers across India
+- 🔐 Secure role-based access for students, educators, and admins
+- 📱 Fully responsive design optimized for low-bandwidth environments
+
+</td>
+</tr>
+</table>
+
+### 🌍 Climate & Disaster Intelligence
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🌪️ [Climate Disaster Prediction & Response Platform](https://github.com/sharath2004-tech/climate-disaster)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-Sophisticated ML-powered web app for real-time stock analysis
-- 🎯 Random Forest, Gradient Boosting, Linear Regression models
-- 📈 20+ technical indicators (RSI, MACD, Bollinger Bands)
-- 🔐 Secure authentication system
-- 📊 Interactive visualizations with Plotly
+ML-powered platform for predicting and analyzing climate-related disasters to aid early warning systems and disaster response.
+- 🌡️ Predictive models for floods, droughts, cyclones, and heatwaves
+- 📡 Integration with real-time climate and satellite data sources
+- 🗺️ Interactive geo-spatial visualizations of disaster-prone regions
+- 📈 Historical trend analysis with risk severity scoring
+- 🚨 Automated early-warning alert generation
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
-#### 📺 [YouTube Trending Analysis ML Platform](https://github.com/sharath2004-tech/youtuble-trend-analysis)
+### 🏥 Healthcare AI
+
+<table>
+<tr>
+<td width="100%">
+
+#### ❤️ [Cardiac Disease Detection](https://github.com/sharath2004-tech/cardiac-disease-detection)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-Advanced ML analytics platform for YouTube trending videos
-- 🤖 Predictive analytics for video performance
-- 📊 Real-time trending data analysis
-- 🔥 Firebase integration for data persistence
-- 📈 Comprehensive data visualizations
-
-</td>
-</tr>
-</table>
-
-### 💼 Enterprise Solutions
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏢 [HRMS Platform](https://github.com/sharath2004-tech/HRMS-Platform)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-Complete HR Management System with role-based dashboards
-- 👥 Multi-role support (Admin, HR, Payroll, Employee)
-- 📊 Attendance & Leave Management
-- 💰 Payroll Processing
-- 📈 Activity logs & Reports
-- 🔐 Protected routes & authentication
-
-</td>
-<td width="50%">
-
-#### 💰 [Expense Management System](https://github.com/sharath2004-tech/hack)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-Modern expense tracking & management platform
-- 📊 Real-time expense tracking
-- 📈 Budget analytics & insights
-- 🔐 Secure authentication
-- 📱 Responsive design
+AI-driven clinical decision support system for early detection of cardiac diseases using patient health metrics and ML classification models.
+- 🫀 Multi-model ensemble (Random Forest, SVM, XGBoost) for high accuracy
+- 📊 Feature importance analysis for key cardiac risk indicators
+- 🔬 Trained on clinical datasets (UCI Heart Disease, Framingham)
+- 📈 Explainable AI (XAI) outputs for clinical interpretability
+- 🩺 Patient risk scoring with probability estimates
 
 </td>
 </tr>
 </table>
-
-### 🎓 Education & Learning
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 [Adaptive Learning Quiz Platform](https://github.com/sharath2004-tech/quiz-typescript-)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-Intelligent adaptive quiz system with MongoDB backend
-- 🧠 Adaptive difficulty adjustment
-- 📊 Performance tracking
-- 🔄 Real-time synchronization
-- 📈 Detailed analytics
-
-</td>
-<td width="50%">
-
-#### 📚 [Study Planner Bot](https://github.com/sharath2004-tech/study-planner-bot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
-
-WhatsApp bot for automated study planning
-- 📅 Smart schedule generation
-- 📝 Task reminders
-- 🔔 Automated notifications
-- 🤖 Conversational interface
-
-</td>
-</tr>
-</table>
-
-### 🌐 Web Applications
-
-#### 🎨 [GlassWeb Studio](https://github.com/sharath2004-tech/yoo)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-Modern website development studio platform with stunning UI/UX
-
-#### 📝 [Quiz Web App](https://github.com/sharath2004-tech/quiz-web)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-Interactive quiz application with Firebase authentication
 
 ---
 
@@ -237,7 +189,7 @@ const sharath = {
 
 ## 🎯 What I'm Up To
 
-- 🔨 Working on **AI/ML projects** and **enterprise-grade applications**
+- 🔨 Working on **AI/ML projects** for education, climate, and healthcare
 - 📚 Learning **Advanced System Design** and **Cloud Architecture**
 - 🌱 Contributing to **open-source projects**
 - 💼 Open to **collaboration** on innovative projects
