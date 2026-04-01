@@ -40,8 +40,6 @@ currently_learning: ["Advanced ML Models", "Cloud Architecture", "System Design"
 - 🌱 Continuously exploring **cutting-edge technologies** and best practices
 - 💬 Ask me about **React, TypeScript, Python, Machine Learning, Firebase**
 - 📫 Reach me at **2004sharath@gmail.com**
-- ⚡ Fun fact: I love turning complex problems into elegant solutions
-
 ---
 
 ## 🎯 Featured Projects
