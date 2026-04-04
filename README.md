@@ -98,19 +98,19 @@ ML-powered platform for predicting and analyzing climate-related disasters to ai
 <tr>
 <td width="100%">
 
-#### ❤️ [Cardiac Disease Detection](https://github.com/sharath2004-tech/cardiac-disease-detection)
+#### ❤️ [HeartCare AI — Cardiac Disease Detection](https://github.com/sharath2004-tech/cardiac-disease-detection)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-AI-driven clinical decision support system for early detection of cardiac diseases using patient health metrics and ML classification models.
-- 🫀 Multi-model ensemble (Random Forest, SVM, XGBoost) for high accuracy
-- 📊 Feature importance analysis for key cardiac risk indicators
-- 🔬 Trained on clinical datasets (UCI Heart Disease, Framingham)
-- 📈 Explainable AI (XAI) outputs for clinical interpretability
-- 🩺 Patient risk scoring with probability estimates
+Full-stack heart health monitoring platform that combines AI-powered cardiac risk assessment with patient and clinician workflows.
+- 🫀 Personalized cardiac risk assessments with AI analysis summaries and follow-up recommendations
+- 📈 Risk trend dashboards, assessment history, and explainable health metric tracking
+- 👨‍⚕️ Dedicated doctor dashboard for patient search, risk filtering, and report review
+- 📁 Secure patient profiles, medical records, and downloadable reports with JWT-backed access
+- 🌐 Modern React, TypeScript, Express, and MongoDB stack built for healthcare AI experiences
 
 </td>
 </tr>
