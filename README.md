@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sharath Goud
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver | Freelancer
 
 <img src="https://komarev.com/ghpvc/?username=sharath2004-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
