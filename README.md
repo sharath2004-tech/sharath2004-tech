@@ -159,26 +159,50 @@ Full-stack heart health monitoring platform that combines AI-powered cardiac ris
 ```javascript
 const sharath = {
     code: ["Python", "TypeScript", "JavaScript", "Java", "C++"],
+
     technologies: {
         frontEnd: {
             frameworks: ["React", "Next.js"],
             styling: ["TailwindCSS", "CSS3", "Responsive Design"],
             tools: ["Vite", "Webpack"]
         },
+
         backEnd: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
             databases: ["MongoDB", "Firebase"]
         },
+
         aiMl: {
-            libraries:  ["scikit-learn", "Pandas", "NumPy"],
+            libraries: ["scikit-learn", "Pandas", "NumPy"],
             visualization: ["Plotly", "Matplotlib", "Seaborn"],
             frameworks: ["Streamlit"]
         },
+
         devOps: ["Docker", "Git", "Linux", "Nginx"],
+
         cloudServices: ["Firebase", "MongoDB Atlas", "Render"]
     },
+
+    areasOfExpertise: [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "LLMs",
+        "Agentic AI",
+        "RAG",
+        "LangChain",
+        "AI Agents",
+        "Computer Vision",
+        "Data Analysis",
+        "REST APIs",
+        "API Integration",
+        "AI-powered Automation",
+        "DSA & Problem Solving"
+    ],
+
     currentFocus: "Building AI-powered full-stack applications",
+
     funFact: "I can debug code faster with a cup of coffee ☕"
 };
 ```
