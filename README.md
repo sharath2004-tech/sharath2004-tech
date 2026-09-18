@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sharath Goud
+# 👋 Hi, I'm Sharath 
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver | Freelancer
 
