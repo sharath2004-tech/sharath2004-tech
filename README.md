@@ -26,7 +26,7 @@
 
 ```yaml
 name: Sharath Goud
-role: Full-Stack Developer & AI/ML Engineer
+role:  AI/ML Engineer & Full-Stack Developer
 location: India
 focus: 
   - Building intelligent, scalable web applications
